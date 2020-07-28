@@ -1,4 +1,5 @@
 # Linux-to-Windows-with-QEMU
+All credits goes to MediaBOTS
 
 A Shell Script to Auto install Windows Server on your Linux System. [Right now, it supports 2012 R2 < evaluation/180 days trial > copy]
 
